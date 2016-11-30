@@ -3,7 +3,6 @@
     "description": "A PHP router library",
     "type": "library",
     "require": {
-        "php": "^5.4"
     },
     "authors": [
         {
