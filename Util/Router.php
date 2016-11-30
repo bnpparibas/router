@@ -9,7 +9,7 @@
 namespace Bnpparibas\Router\Util;
 
 
-class GetRoutingFiles
+class Router
 {
     const TYPE_FILE = 'file';
     const TYPE_ROUTE = 'route';
