@@ -26,7 +26,7 @@ class GetRoutingFiles
     public function getRoutingFiles($files = null)
     {
         if ($files === null) {
-            $files = parse_ini_file(__DIR__ . "/config/routing.ini", true);
+            $files = parse_ini_file("app/config/routing.ini", true);
         }
 
         foreach ($files as $type => $value) {
