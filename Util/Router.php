@@ -6,7 +6,7 @@
  * Time: 23:08
  */
 
-namespace Romenys\Router\Util;
+namespace PhpLight\Router\Util;
 
 
 class Router

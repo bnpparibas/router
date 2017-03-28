@@ -1,5 +1,5 @@
 {
-    "name": "romenys/router",
+    "name": "php-light/router",
     "description": "A PHP router library",
     "type": "library",
     "require": {
@@ -12,7 +12,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "Romenys\\Router\\": "" },
+        "psr-4": { "PhpLight\\Router\\": "" },
         "exclude-from-classmap": [
             "/Tests/"
         ]
